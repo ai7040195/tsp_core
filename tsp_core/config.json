@@ -1,0 +1,7 @@
+{
+  "vm_threshold": 4.0,
+  "recruiter_email": "talent@azienda.com",
+  "consent_required": true,
+  "log_file": "tsp_log.txt"
+}
+
